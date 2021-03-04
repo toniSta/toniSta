@@ -1,6 +1,6 @@
 ### Hi there, I'm Toni 👋
 
-I'm Toni, backend developer from Germany. I finished my master studies in IT last year. Currently looking for a new challenge!
+I'm Toni, backend developer from Germany. I finished my master studies in IT in 2019.
  
 #### Code: 
 
